@@ -1,4 +1,6 @@
 # apna-collegedemo
 This is my first git repository
 </br>
-Author-Abhinav Lala
+Author-lalaji
+
+git status
